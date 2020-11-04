@@ -18,8 +18,10 @@ public class exec_04 {
 		
 		System.out.println("NUMBER = " + numFunc);
 		System.out.printf("SALARY = U$ %.2f", salario);
+		
+		sc.close();
 	}
-
+		
 }
 
 // Fazer um programa que leia o número de um funcionário, 
