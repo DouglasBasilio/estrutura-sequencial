@@ -27,7 +27,6 @@ public class exec_06 {
 		System.out.printf("RETANGULO: %.3f%n", retangulo);
 
 		sc.close();
-
 	}
 
 }
